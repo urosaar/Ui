@@ -1,6 +1,6 @@
 # Ui — Hollow Knight-style UI Template (Class 8 integration)
 
-A Unity UI template inspired by Hollow Knight, built by **Jesse (urosaar)**.
+A Unity UI template inspired by Hollow Knight, built by **Jesse (urosaar)** and ** Ouss (oussmac) **.
 This branch adds the **Class 8** scene, a working on-disk **save/profile system**
 (an expansion by **oussmac**), and wiring for the controls / key-rebinding panel.
 
